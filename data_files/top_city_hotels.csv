@@ -1,0 +1,219 @@
+location,date_updated,hotel_name,hotel_lat,hotel_lon,hotel_score,score_title,score_expe,url
+Marseille,2022-01-02,Domitys La Badiane,43.31407659,5.36968701,8.9,Superbe ,38,https://www.booking.com/hotel/fr/domitys-la-badiane.fr.html
+Marseille,2022-01-02,Le Couvent Marseille,43.29722248,5.36653509,9.1,Fabuleux  ,253,https://www.booking.com/hotel/fr/le-couvent-marseille.fr.html
+Marseille,2022-01-02,Residhome Marseille,43.302737,5.365624,8.5,Très bien ,1,https://www.booking.com/hotel/fr/residhome-marseille.fr.html
+Marseille,2022-01-02,New Hotel Le Quai - Vieux Port,43.29603122,5.37489071,8.4,Très bien ,1,https://www.booking.com/hotel/fr/vieuxport.fr.html
+Marseille,2022-01-02,Aparthotel Adagio Marseille Vieux Port,43.30144218,5.3706944,7.4,Bien  ,1,https://www.booking.com/hotel/fr/adagio-city-aparthotel-marseille-republique.fr.html
+Marseille,2022-01-02,Mercure Marseille Centre Vieux Port,43.29868005,5.37532523,8.0,Très bien ,1,https://www.booking.com/hotel/fr/mercure-marseille-centre-vieux-port.fr.html
+Marseille,2022-01-02,Mercure Marseille Canebière Vieux-Port,43.296986,5.379321,8.2,Très bien ,905,https://www.booking.com/hotel/fr/mercure-marseille-canebiere-vieux-port.fr.html
+Marseille,2022-01-02,Ac Hotel By Marriott Marseille Prado Vélodrome,43.269202,5.393839,8.3,Très bien ,1,https://www.booking.com/hotel/fr/ac-by-marriott-marseille.fr.html
+Marseille,2022-01-02,Newhotel Of Marseille - Vieux Port,43.29204847,5.35977781,8.0,Très bien ,1,https://www.booking.com/hotel/fr/new-of-marseille-le-pharo.fr.html
+Marseille,2022-01-02,Best Western Plus Hôtel La Joliette,43.30365629,5.36660336,8.2,Très bien ,1,https://www.booking.com/hotel/fr/best-western-la-joliette.fr.html
+Marseille,2022-01-02,La Résidence Du Vieux Port,43.29653858,5.37270606,8.8,Superbe ,1,https://www.booking.com/hotel/fr/hotel-la-residence-du-vieux-port.fr.html
+Marseille,2022-01-02,Mercure Marseille Centre Prado Vélodrome,43.26947577,5.38823336,8.3,Très bien ,960,https://www.booking.com/hotel/fr/mercure-marseille-prado.fr.html
+Marseille,2022-01-02,Novotel Marseille Vieux Port,43.29232179,5.36023915,7.8,Bien  ,1,https://www.booking.com/hotel/fr/novotel-marseille-vieux-port.fr.html
+Marseille,2022-01-02,Grand Hotel Beauvau Marseille Vieux Port - Mgallery,43.29507836,5.37501007,8.6,Superbe ,1,https://www.booking.com/hotel/fr/mercure-grand-beauvau.fr.html
+Marseille,2022-01-02,Novotel Suites Marseille Centre Euromed,43.30796539,5.36746502,8.2,Très bien ,1,https://www.booking.com/hotel/fr/marseille-centre-euromed.fr.html
+Marseille,2022-01-02,Golden Tulip Marseille Euromed,43.30972177,5.36703444,7.9,Bien  ,3,https://www.booking.com/hotel/fr/golden-tulip.fr.html
+Marseille,2022-01-02,Nh Collection Marseille,43.3024211,5.3686337,8.6,Superbe ,4,https://www.booking.com/hotel/fr/nh-collection-marseille.fr.html
+Marseille,2022-01-02,Golden Tulip Villa Massalia,43.25480976,5.3816539,7.5,Bien  ,1,https://www.booking.com/hotel/fr/goldentulipvillamassalia.fr.html
+Marseille,2022-01-02,Radisson Blu Hotel Marseille Vieux Port,43.2925834,5.36702782,7.7,Bien  ,2,https://www.booking.com/hotel/fr/radisson-sas-marseille-vieux-port.fr.html
+Marseille,2022-01-02,Maisons Du Monde Hôtel & Suites - Marseille Vieux Port,43.29412372,5.37463993,8.4,Très bien ,932,https://www.booking.com/hotel/fr/maisondumondehotelandsuitesmarseille.fr.html
+Marseille,2022-01-02,Nhow Marseille,43.26873557,5.36907434,8.3,Très bien ,2,https://www.booking.com/hotel/fr/pullman-palm-beach-marseille.fr.html
+Marseille,2022-01-02,Le Petit Nice - Passedat,43.28096532,5.35174727,8.2,Très bien ,191,https://www.booking.com/hotel/fr/le-petit-nice-marseille.fr.html
+Marseille,2022-01-02,Hotel C2,43.2897397,5.3731927,8.9,Superbe ,560,https://www.booking.com/hotel/fr/c2-marseille.fr.html
+Marseille,2022-01-02,Sofitel Marseille Vieux-Port,43.29242722,5.36084533,8.5,Très bien ,1,https://www.booking.com/hotel/fr/sofitel-marseille-vieux-port.fr.html
+Marseille,2022-01-02,"Intercontinental Marseille - Hotel Dieu, An Ihg Hotel",43.29858167,5.36974624,8.5,Très bien ,1,https://www.booking.com/hotel/fr/marseille-dieu.fr.html
+Collioure,2022-01-02,Chambres Rue De La République,42.5255637,3.08279672,7.6,Bien  ,409,https://www.booking.com/hotel/fr/chambres-rue-de-la-republique.fr.html
+Saintes Maries de la mer,2022-01-02,Le Maset,43.45656073,4.42670293,8.9,Superbe ,251,https://www.booking.com/hotel/fr/mazet-de-la-grenouilla-re.fr.html
+Collioure,2022-01-02,Hôtel La Bona Casa,42.52547153,3.0826987,8.4,Très bien ,797,https://www.booking.com/hotel/fr/la-bona-casa.fr.html
+Collioure,2022-01-02,Hotel Le Bon Port,42.52411449,3.08936566,8.2,Très bien ,444,https://www.booking.com/hotel/fr/le-bon-port.fr.html
+Collioure,2022-01-02,Hôtel Des Templiers,42.52666546,3.08394089,8.0,Très bien ,762,https://www.booking.com/hotel/fr/ha-tel-des-templiers.fr.html
+Collioure,2022-01-02,Hôtel Triton,42.52371617,3.08713473,7.5,Bien  ,943,https://www.booking.com/hotel/fr/triton.fr.html
+Collioure,2022-01-02,Residence Pierre & Vacances Les Balcons De Collioure,42.52510633,3.0904362,8.0,Très bien ,622,https://www.booking.com/hotel/fr/maevabalconsdecollioure.fr.html
+Collioure,2022-01-02,Hotel Méditerranée,42.52708254,3.08026291,7.9,Bien  ,760,https://www.booking.com/hotel/fr/mediterranee-collioure.fr.html
+Collioure,2022-01-02,Hôtel Princes De Catalogne,42.52591431,3.0826816,8.1,Très bien ,1,https://www.booking.com/hotel/fr/princes-de-catalogne.fr.html
+Collioure,2022-01-02,Le Mas Des Citronniers,42.52538159,3.08256391,8.0,Très bien ,843,https://www.booking.com/hotel/fr/lesmasdescitronniers.fr.html
+Collioure,2022-01-02,Le Madeloc Hôtel & Spa,42.52876467,3.07865426,8.8,Superbe ,709,https://www.booking.com/hotel/fr/madeloc.fr.html
+Collioure,2022-01-02,La Frégate,42.52638625,3.08325659,8.1,Très bien ,1,https://www.booking.com/hotel/fr/la-fra-c-gate-collioure.fr.html
+Collioure,2022-01-02,Le Relais Des Trois Mas,42.52417281,3.08931068,9.0,Fabuleux  ,206,https://www.booking.com/hotel/fr/le-relais-des-trois-mas.fr.html
+Collioure,2022-01-02,Hôtel La Casa Pairal,42.52616733,3.08235571,8.7,Superbe ,681,https://www.booking.com/hotel/fr/hotelcasapairal.fr.html
+Collioure,2022-01-02,Les Roches Brunes,42.52534777,3.09032446,9.0,Fabuleux  ,229,https://www.booking.com/hotel/fr/les-roches-brunes-collioure.fr.html
+Saintes Maries de la mer,2022-01-02,Hotel Mas Des Lys,43.47418844,4.41020608,8.7,Superbe ,328,https://www.booking.com/hotel/fr/mas-des-lys-les-saintes-maries-de-la-mer.fr.html
+Saintes Maries de la mer,2022-01-02,Hotel Camille,43.45039148,4.42991227,7.9,Bien  ,793,https://www.booking.com/hotel/fr/camille.fr.html
+Saintes Maries de la mer,2022-01-02,Hotel Le Bleu Marine,43.45463818,4.433202,8.4,Très bien ,506,https://www.booking.com/hotel/fr/le-bleu-marine.fr.html
+Saintes Maries de la mer,2022-01-02,Hôtel Les Arcades,43.4526278,4.43076655,8.7,Superbe ,473,https://www.booking.com/hotel/fr/ha-tel-les-arcades.fr.html
+Saintes Maries de la mer,2022-01-02,Hotel Les Palmiers En Camargue,43.45106618,4.42509368,8.1,Très bien ,1,https://www.booking.com/hotel/fr/les-palmiers-en-camargue.fr.html
+Saintes Maries de la mer,2022-01-02,Le Castelet,43.45134949,4.42507625,7.4,Bien  ,1,https://www.booking.com/hotel/fr/le-castelet-les-saintes-maries-de-la-mer.fr.html
+Saintes Maries de la mer,2022-01-02,Hôtel La Palunette,43.46230329,4.42051917,8.5,Très bien ,276,https://www.booking.com/hotel/fr/la-palunette.fr.html
+Saintes Maries de la mer,2022-01-02,Cacharel,43.49245835,4.44407601,8.2,Très bien ,99,https://www.booking.com/hotel/fr/cacharel.fr.html
+Saintes Maries de la mer,2022-01-02,Les Rizières,43.47103999,4.41058695,8.2,Très bien ,512,https://www.booking.com/hotel/fr/les-rizieres.fr.html
+Saintes Maries de la mer,2022-01-02,Hotel Mas Des Barres,43.5192832,4.39884961,8.3,Très bien ,283,https://www.booking.com/hotel/fr/le-petit-mas-des-barres.fr.html
+Saintes Maries de la mer,2022-01-02,Clamador,43.46821258,4.3956323,8.1,Très bien ,870,https://www.booking.com/hotel/fr/clamador.fr.html
+Saintes Maries de la mer,2022-01-02,L'Auberge Camarguaise,43.47184235,4.41156596,7.8,Bien  ,409,https://www.booking.com/hotel/fr/lauberge-camarguaise.fr.html
+Saintes Maries de la mer,2022-01-02,Hôtel Le Neptune En Camargue,43.452127,4.425347,7.8,Bien  ,284,https://www.booking.com/hotel/fr/le-neptune-en-camargue.fr.html
+Saintes Maries de la mer,2022-01-02,Hôtel Mas De La Grenouillère,43.47145266,4.40182686,8.2,Très bien ,227,https://www.booking.com/hotel/fr/ha-tel-mas-de-la-grenouilla-re.fr.html
+Saintes Maries de la mer,2022-01-02,Le Dauphin Bleu,43.452330860000004,4.43364993,8.6,Superbe ,945,https://www.booking.com/hotel/fr/le-dauphin-bleu.fr.html
+Saintes Maries de la mer,2022-01-02,La Tramontane,43.47260109,4.41012025,9.1,Fabuleux  ,1,https://www.booking.com/hotel/fr/la-tramontane.fr.html
+Saintes Maries de la mer,2022-01-02,Hôtel Casa Marina,43.451133,4.430953,8.9,Superbe ,451,https://www.booking.com/hotel/fr/casa-marina-saintes-maries-de-la-mer.fr.html
+Saintes Maries de la mer,2022-01-02,Thalacap Camargue,43.45349134,4.43545103,7.7,Bien  ,890,https://www.booking.com/hotel/fr/thalacap-camargue.fr.html
+Saintes Maries de la mer,2022-01-02,Mas De La Fouque - Hôtel & Spa,43.4670806,4.40451175,7.8,Bien  ,282,https://www.booking.com/hotel/fr/lodge-de-la-fouque.fr.html
+Saintes Maries de la mer,2022-01-02,Le Mas De Cocagne,43.45831608,4.42523181,8.7,Superbe ,374,https://www.booking.com/hotel/fr/le-mas-de-cocagne-les-saintes-maries-de-la-mer.fr.html
+Saintes Maries de la mer,2022-01-02,Hôtel Restaurant Les Arnelles,43.46095608,4.42231894,8.3,Très bien ,259,https://www.booking.com/hotel/fr/les-arnelles.fr.html
+Saintes Maries de la mer,2022-01-02,Vila De La Mar & Spa,43.45334531,4.43066597,8.2,Très bien ,447,https://www.booking.com/hotel/fr/bastide-blanche-saintes-maries-de-la-mer.fr.html
+Saintes Maries de la mer,2022-01-02,Auberge Cavaliere Du Pont Des Bannes,43.46542981,4.41963136,7.6,Bien  ,482,https://www.booking.com/hotel/fr/auberge-cavaliere-saintes-maries-de-la-mer.fr.html
+Saintes Maries de la mer,2022-01-02,Hôtel L' Estelle En Camargue,43.4703003,4.39530373,8.9,Superbe ,130,https://www.booking.com/hotel/fr/l-estelle-en-camargue-les-saintes.fr.html
+Biarritz,2022-01-02,Sure Hotel By Best Western Biarritz Aeroport,43.4722079,-1.53489947,7.7,Bien  ,1,https://www.booking.com/hotel/fr/amaryshotel.fr.html
+La Rochelle,2022-01-02,Ibis Styles La Rochelle Centre,46.1580159,-1.15397182,8.3,Très bien ,1,https://www.booking.com/hotel/fr/ibis-la-rochelle-centre.fr.html
+La Rochelle,2022-01-02,Ibis La Rochelle Centre Historique,46.1612519,-1.1504209,7.8,Bien  ,1,https://www.booking.com/hotel/fr/ibis-la-rochelle-vieille-ville.fr.html
+La Rochelle,2022-01-02,Kyriad La Rochelle Centre - Les Minimes,46.14630971,-1.1528939,8.0,Très bien ,2,https://www.booking.com/hotel/fr/kyriad-la-rochelle-centre-les-minimes-xml.fr.html
+La Rochelle,2022-01-02,Ibis La Rochelle Vieux Port,46.1558294,-1.148558,8.2,Très bien ,1,https://www.booking.com/hotel/fr/ibis-la-rochelle-vieux-port.fr.html
+La Rochelle,2022-01-02,Hôtel Kyriad La Rochelle Centre Ville,46.15779643,-1.13840461,8.1,Très bien ,2,https://www.booking.com/hotel/fr/kyriad-la-rochelle-centre.fr.html
+La Rochelle,2022-01-02,Résidence New Rochelle,46.14068996,-1.16616011,7.7,Bien  ,2,https://www.booking.com/hotel/fr/residence-du-port.fr.html
+La Rochelle,2022-01-02,Hôtel François 1Er,46.16091143,-1.15203694,8.3,Très bien ,1,https://www.booking.com/hotel/fr/hotelfrancoiser.fr.html
+La Rochelle,2022-01-02,Séjours & Affaires La Rochelle Les Minimes,46.14584493,-1.15611792,7.5,Bien  ,811,https://www.booking.com/hotel/fr/residence-les-minimes.fr.html
+La Rochelle,2022-01-02,Hotel Inn Design Resto Novo La Rochelle,46.16975862,-1.12158448,6.5,Agréable ,1,https://www.booking.com/hotel/fr/inn-design.fr.html
+La Rochelle,2022-01-02,Hôtel Les Brises,46.15345807,-1.17438644,8.6,Superbe ,1,https://www.booking.com/hotel/fr/hotellesbrises.fr.html
+La Rochelle,2022-01-02,Le Manoir Hôtel,46.16270478,-1.16061062,8.6,Superbe ,604,https://www.booking.com/hotel/fr/le-manoir-la-rochelle.fr.html
+La Rochelle,2022-01-02,Hôtel Atlantic,46.15727436,-1.15521938,8.3,Très bien ,1,https://www.booking.com/hotel/fr/atlantic-la-rochelle.fr.html
+La Rochelle,2022-01-02,Le Champlain,46.16357605,-1.1541599,8.8,Superbe ,1,https://www.booking.com/hotel/fr/best-western-champlain-france-angleterre.fr.html
+La Rochelle,2022-01-02,Athome Residence Et Spa,46.145995,-1.152398,8.2,Très bien ,1,https://www.booking.com/hotel/fr/athome-residence-et-spa.fr.html
+La Rochelle,2022-01-02,Hôtel Saint Nicolas,46.15813457,-1.14891277,8.6,Superbe ,2,https://www.booking.com/hotel/fr/comforthotelsaintnicolas.fr.html
+La Rochelle,2022-01-02,Résidence Pierre & Vacances Centre,46.15576943,-1.14639223,7.5,Bien  ,1,https://www.booking.com/hotel/fr/pierre-vacances-centre.fr.html
+La Rochelle,2022-01-02,Hotel La Fabrique,46.156155,-1.148583,8.5,Très bien ,1,https://www.booking.com/hotel/fr/la-fabrique-la-rochelle.fr.html
+La Rochelle,2022-01-02,Lagrange Apart'Hotel L’Escale Marine,46.15107012,-1.15486329,7.2,Bien  ,5,https://www.booking.com/hotel/fr/l-escale-marine.fr.html
+La Rochelle,2022-01-02,Mercure La Rochelle Vieux Port Sud,46.15365316,-1.14965111,7.9,Bien  ,2,https://www.booking.com/hotel/fr/la-rochelle-vieux-port-sud.fr.html
+La Rochelle,2022-01-02,Novotel La Rochelle Centre,46.16143408,-1.15847558,8.3,Très bien ,1,https://www.booking.com/hotel/fr/la-rochelle-centre.fr.html
+La Rochelle,2022-01-02,Best Western Premier Masqhotel,46.15483672,-1.14505649,8.6,Superbe ,1,https://www.booking.com/hotel/fr/masqhotel.fr.html
+La Rochelle,2022-01-02,Hôtel La Monnaie Art & Spa,46.1563008,-1.15810812,8.5,Très bien ,1,https://www.booking.com/hotel/fr/de-la-monnaie.fr.html
+La Rochelle,2022-01-02,Central Park Hôtel & Spa,46.15891333,-1.16082335,8.7,Superbe ,1,https://www.booking.com/hotel/fr/central-park-amp-spa.fr.html
+La Rochelle,2022-01-02,Maisons Du Monde Hôtel & Suites - La Rochelle Vieux Port,46.15619304,-1.15443483,8.4,Très bien ,988,https://www.booking.com/hotel/fr/inter-saint-jean-d-acre.fr.html
+La Rochelle,2022-01-02,Maison Des Ambassadeurs,46.16282553,-1.15110219,8.5,Très bien ,383,https://www.booking.com/hotel/fr/la-residence-de-france-residence-hoteliere.fr.html
+Biarritz,2022-01-02,Hôtel Cosmopolitain,43.482179,-1.56183958,8.4,Très bien ,1,https://www.booking.com/hotel/fr/palacito.fr.html
+Biarritz,2022-01-02,Hôtel Les Baigneuses De Biarritz,43.48230843,-1.56681105,8.0,Très bien ,456,https://www.booking.com/hotel/fr/le-caritz.fr.html
+Biarritz,2022-01-02,Campanile Biarritz,43.46638758,-1.54004395,6.6,Agréable ,2,https://www.booking.com/hotel/fr/campanile-biarritz.fr.html
+Biarritz,2022-01-02,Hôtel Le Biarritz,43.46889876,-1.5685612,7.6,Bien  ,1,https://www.booking.com/hotel/fr/hotellebiarritz.fr.html
+Biarritz,2022-01-02,Best Western Kemaris,43.4765027,-1.56245649,8.3,Très bien ,1,https://www.booking.com/hotel/fr/best-western-kemaris.fr.html
+Biarritz,2022-01-02,Hôtel Florida,43.48222961,-1.5639907100000001,7.0,Bien  ,1,https://www.booking.com/hotel/fr/eugenie-biarritz.fr.html
+Biarritz,2022-01-02,Résidence Pierre & Vacances Premium Haguna,43.48534536,-1.5525806,8.4,Très bien ,701,https://www.booking.com/hotel/fr/residence-pierre-vacances-haguna.fr.html
+Biarritz,2022-01-02,Mercure Plaza Biarritz Centre,43.48288936,-1.55857265,8.1,Très bien ,520,https://www.booking.com/hotel/fr/biarritz-centre-plaza.fr.html
+Biarritz,2022-01-02,Mercure Président Biarritz Plage,43.4818647,-1.5597581900000002,8.2,Très bien ,707,https://www.booking.com/hotel/fr/mercure-le-president-biarritz-centre.fr.html
+Biarritz,2022-01-02,Le Garage Biarritz Hôtel Nouvelle Ouverture,43.490592,-1.5516969999999999,8.9,Superbe ,62,https://www.booking.com/hotel/fr/le-garage-regina.fr.html
+Biarritz,2022-01-02,Château Du Clair De Lune - Les Collectionneurs,43.45005266,-1.5458107,9.0,Fabuleux  ,337,https://www.booking.com/hotel/fr/chateau-du-clair-de-lune.fr.html
+Biarritz,2022-01-02,Hôtel Georges Vi,43.48218971,-1.5663591000000001,8.2,Très bien ,372,https://www.booking.com/hotel/fr/georges-vi.fr.html
+Biarritz,2022-01-02,Résidence Biarritz Ocean,43.48040601,-1.55796111,8.0,Très bien ,534,https://www.booking.com/hotel/fr/biarritz-ocean.fr.html
+Biarritz,2022-01-02,Hotel De Silhouette,43.48106773,-1.56320751,8.8,Superbe ,503,https://www.booking.com/hotel/fr/de-silhouette-biarritz.fr.html
+Biarritz,2022-01-02,Hotel Villa Koegui Biarritz,43.48070865,-1.55810058,8.6,Superbe ,404,https://www.booking.com/hotel/fr/7b.fr.html
+Biarritz,2022-01-02,Lagrange Vacances Les Patios Eugénie,43.4850447,-1.55132607,8.0,Très bien ,327,https://www.booking.com/hotel/fr/lagrange-prestige-les-patios-euga-c-nie.fr.html
+Biarritz,2022-01-02,Grand Tonic Hotel Biarritz,43.48447351,-1.5569445499999999,7.7,Bien  ,1,https://www.booking.com/hotel/fr/tonic-hotel-biarritz.fr.html
+Biarritz,2022-01-02,Best Western Plus Hôtel Littéraire Jules Verne,43.47853954,-1.5553995999999999,8.3,Très bien ,879,https://www.booking.com/hotel/fr/karitza-biarritz.fr.html
+Biarritz,2022-01-02,Hôtel Le Café De Paris,43.48271809,-1.56134069,8.7,Superbe ,457,https://www.booking.com/hotel/fr/le-cafe-de-paris-4.fr.html
+Biarritz,2022-01-02,Hôtel Le Windsor Biarritz,43.48437426,-1.55863568,8.5,Très bien ,1,https://www.booking.com/hotel/fr/inter-windsor.fr.html
+Biarritz,2022-01-02,Radisson Blu Hotel Biarritz,43.47827192,-1.56469077,7.5,Bien  ,1,https://www.booking.com/hotel/fr/radisson-blu-hotel-biarritz.fr.html
+Biarritz,2022-01-02,Le Regina Biarritz Hotel & Spa Mgallery Hotel Collection,43.49107531,-1.55189127,8.5,Très bien ,651,https://www.booking.com/hotel/fr/thalassa-regina-du-golf.fr.html
+Biarritz,2022-01-02,"Hôtel Du Palais Biarritz, In The Unbound Collection By Hyatt",43.48643904,-1.55621767,8.8,Superbe ,336,https://www.booking.com/hotel/fr/hoteldupalaisbiarritz.fr.html
+Biarritz,2022-01-02,Sofitel Biarritz Le Miramar Thalassa,43.48784796,-1.5544447300000002,8.0,Très bien ,724,https://www.booking.com/hotel/fr/thalassa-miramar-biarritz.fr.html
+Marseille,2022-01-02,Ibis Styles Marseille Centre Prado Castellane,43.28405135,5.3858301,7.8,Bien  ,927,https://www.booking.com/hotel/fr/marseille-castellane.fr.html
+Marseille,2022-01-02,Residhotel Le Grand Prado,43.28080124,5.38825348,6.9,Agréable ,3,https://www.booking.com/hotel/fr/le-grand-prado-marseille.fr.html
+Marseille,2022-01-02,Appart'City Marseille Centre Prado Velodrome (Ex Seven Urban Suites Marseille),43.2798554,5.390496,7.7,Bien  ,2,https://www.booking.com/hotel/fr/seven-urban-suites.fr.html
+Marseille,2022-01-02,Residhotel Vieux Port,43.29681825,5.37305743,7.5,Bien  ,1,https://www.booking.com/hotel/fr/residhotel-vieux-port.fr.html
+Marseille,2022-01-02,Hôtel Carré Vieux Port,43.29502467,5.37505701,8.1,Très bien ,1,https://www.booking.com/hotel/fr/hotelkyrivieuxmarseille.fr.html
+Marseille,2022-01-02,Ibis Marseille Bonneveine Calanques Plages,43.24734785,5.38996271,7.4,Bien  ,1,https://www.booking.com/hotel/fr/ibis-bonneveine.fr.html
+Marseille,2022-01-02,Aparthotel Adagio Marseille Timone,43.2910567,5.40434003,8.0,Très bien ,1,https://www.booking.com/hotel/fr/hipark-residences-marseille.fr.html
+Marseille,2022-01-02,Ibis Marseille Centre Prado Velodrome,43.27951389,5.38918138,7.3,Bien  ,867,https://www.booking.com/hotel/fr/ibis-marseille-prado-velodrome.fr.html
+Marseille,2022-01-02,Ibis Styles Marseille Vieux Port,43.29586093,5.37831791,7.9,Bien  ,1,https://www.booking.com/hotel/fr/ibis-styles-marseille-vieux-port.fr.html
+Marseille,2022-01-02,Alex Hotel & Spa,43.3015975,5.379772,8.5,Très bien ,1,https://www.booking.com/hotel/fr/alex.fr.html
+Marseille,2022-01-02,Citadines Castellane Marseille,43.28282806,5.38725905,8.2,Très bien ,2,https://www.booking.com/hotel/fr/citadines-aparthotel-marseilleprado.fr.html
+Marseille,2022-01-02,Aparthotel Adagio Marseille Prado Plage,43.26446359,5.37592135,7.7,Bien  ,1,https://www.booking.com/hotel/fr/residencepierrevacancesmarseillepradoplage.fr.html
+Marseille,2022-01-02,Citadines Prado Chanot Marseille,43.27647108,5.3911972,8.1,Très bien ,2,https://www.booking.com/hotel/fr/citadines-aparthotel-marseillepradochanot.fr.html
+Marseille,2022-01-02,Kyriad Marseille Palais Des Congrès – Vélodrome,43.28066065,5.39956301,7.8,Bien  ,2,https://www.booking.com/hotel/fr/hotelkyriadrabatau.fr.html
+Marseille,2022-01-02,Aparthotel Adagio Access Marseille Saint Charles,43.30459067,5.3819409,7.6,Bien  ,1,https://www.booking.com/hotel/fr/adagio-city-aparthotel-marseille-saint-charles.fr.html
+Marseille,2022-01-02,Residhome Marseille Saint-Charles,43.30230886,5.37691176,8.0,Très bien ,2,https://www.booking.com/hotel/fr/residhome-marseille-saint-charles.fr.html
+Marseille,2022-01-02,Hôtel Life Marseille Vp - Vieux Port,43.29443608,5.37478209,8.2,Très bien ,606,https://www.booking.com/hotel/fr/alize.fr.html
+Marseille,2022-01-02,Ibis Marseille Centre Prefecture,43.29155323,5.38197108,7.5,Bien  ,555,https://www.booking.com/hotel/fr/premiere-classe-marseille-centre-xml.fr.html
+Marseille,2022-01-02,Ibis Styles Marseille Gare Saint-Charles,43.30102178,5.38060784,7.9,Bien  ,2,https://www.booking.com/hotel/fr/hotel-marseille-st-charles.fr.html
+Marseille,2022-01-02,Toyoko Inn Marseille Saint Charles,43.304229,5.376624,8.0,Très bien ,9,https://www.booking.com/hotel/fr/toyoko-inn-marseille-saint-charles.fr.html
+Marseille,2022-01-02,"Holiday Inn Express Marseille Saint Charles, An Ihg Hotel",43.30272424,5.37933044,8.1,Très bien ,4,https://www.booking.com/hotel/fr/holiday-inn-express-marseille-saint-charles.fr.html
+Marseille,2022-01-02,Suite Privée Du Balcon Du Vieux Port Marseille,43.291837,5.3677745,9.5,Exceptionnel ,11,https://www.booking.com/hotel/fr/suite-privee-du-balcon-du-vieux-port-marseille.fr.html
+Marseille,2022-01-02,Novotel Marseille Est,43.286972,5.511179,6.7,Agréable ,403,https://www.booking.com/hotel/fr/novotel-marseille-est-la-valentine.fr.html
+Marseille,2022-01-02,Mercure Marseille Centre Bompard La Corniche,43.28118494,5.35933256,7.7,Bien  ,708,https://www.booking.com/hotel/fr/bompard.fr.html
+Marseille,2022-01-02,Novotel Marseille Centre Prado Vélodrome,43.28068115,5.38708806,7.8,Bien  ,1,https://www.booking.com/hotel/fr/novotel-marseille-centre-prado.fr.html
+Saintes Maries de la mer,2022-01-02,Auberge Mas De Layalle,43.5192715,4.3980931,7.4,Bien  ,71,https://www.booking.com/hotel/fr/mas-de-layalle.fr.html
+Saintes Maries de la mer,2022-01-02,Lodge Sainte Helene,43.46575556,4.41393435,9.2,Fabuleux  ,167,https://www.booking.com/hotel/fr/lodge-sainte-helene.fr.html
+Saintes Maries de la mer,2022-01-02,Hôtel Restaurant Le Delta,43.452178,4.428116,6.4,Agréable ,410,https://www.booking.com/hotel/fr/hacienda-des-enfants-terribles.fr.html
+Saintes Maries de la mer,2022-01-02,Mas Le Sauvageon,43.48324784,4.39045474,9.1,Fabuleux  ,204,https://www.booking.com/hotel/fr/mas-le-sauvageon.fr.html
+Saintes Maries de la mer,2022-01-02,Mas Des Rièges & Spa,43.46150341,4.42932761,8.8,Superbe ,94,https://www.booking.com/hotel/fr/mas-des-rieges-amp-spa.fr.html
+Saintes Maries de la mer,2022-01-02,Auberge De La Fadaise,43.48647018,4.40415502,8.5,Très bien ,364,https://www.booking.com/hotel/fr/auberge-de-la-fadaise.fr.html
+Saintes Maries de la mer,2022-01-02,Abrivado,43.45033695,4.42622423,8.4,Très bien ,552,https://www.booking.com/hotel/fr/abrivado.fr.html
+Saintes Maries de la mer,2022-01-02,Le Maset,43.45656073,4.42670293,8.9,Superbe ,251,https://www.booking.com/hotel/fr/mazet-de-la-grenouilla-re.fr.html
+Biarritz,2022-01-02,Hôtel Saint James,43.48131684,-1.56286418,7.8,Bien  ,771,https://www.booking.com/hotel/fr/saint-james.fr.html
+Biarritz,2022-01-02,Hotel Val Flores,43.48380307,-1.54836148,7.2,Bien  ,466,https://www.booking.com/hotel/fr/logis-val-flores.fr.html
+La Rochelle,2022-01-02,Hôtel Alizéa,46.1612226,-1.17579916,6.6,Agréable ,325,https://www.booking.com/hotel/fr/alizea.fr.html
+La Rochelle,2022-01-02,Hôtel Le Transatlantique - Lycée Hôtelier La Rochelle,46.143734,-1.160263,8.7,Superbe ,198,https://www.booking.com/hotel/fr/lycee-hotelier-la-rochelle.fr.html
+La Rochelle,2022-01-02,Hôtel Savary,46.158,-1.170613,7.5,Bien  ,312,https://www.booking.com/hotel/fr/savary.fr.html
+La Rochelle,2022-01-02,Un Hôtel En Ville,46.15714245,-1.1563459,9.4,Fabuleux  ,630,https://www.booking.com/hotel/fr/en-ville-la-rochelle.fr.html
+La Rochelle,2022-01-02,B&B La Rochelle Centre,46.15450177,-1.1446716399999999,8.1,Très bien ,1,https://www.booking.com/hotel/fr/b-amp-b-la-rochelle-centre.fr.html
+La Rochelle,2022-01-02,Hôtel De L'Océan,46.15701983,-1.15412772,8.3,Très bien ,605,https://www.booking.com/hotel/fr/de-l-ocean-la-rochelle.fr.html
+La Rochelle,2022-01-02,Première Classe La Rochelle Centre - Les Minimes,46.14702834,-1.15308466,7.6,Bien  ,3,https://www.booking.com/hotel/fr/premia-re-classe-la-rochelle-centre-les-minimes.fr.html
+La Rochelle,2022-01-02,Citotel Hôtel Le Bord'O,46.15687677,-1.14911199,8.2,Très bien ,1,https://www.booking.com/hotel/fr/hoteldebordeauxlaroc.fr.html
+La Rochelle,2022-01-02,Un Hotel Sur Le Port,46.15612058,-1.1489135,8.1,Très bien ,271,https://www.booking.com/hotel/fr/axe.fr.html
+La Rochelle,2022-01-02,Accostage Hôtel Plage De La Concurrence,46.15712387,-1.16604209,8.5,Très bien ,616,https://www.booking.com/hotel/fr/accostage.fr.html
+La Rochelle,2022-01-02,Hôtel Les Gens De Mer La Rochelle By Popinns**,46.15412696,-1.14749925,7.8,Bien  ,1,https://www.booking.com/hotel/fr/les-gens-de-mer-la-rochelle.fr.html
+La Rochelle,2022-01-02,"Hotel La Marine, Vieux Port",46.15815872,-1.15267055,8.6,Superbe ,960,https://www.booking.com/hotel/fr/la-marine-la-rochelle.fr.html
+La Rochelle,2022-01-02,Hôtel La Tour De Nesle La Rochelle Vieux Port,46.15809741,-1.1503619,8.0,Très bien ,245,https://www.booking.com/hotel/fr/de-la-tour-de-nesle-la-rochelle.fr.html
+La Rochelle,2022-01-02,Hôtel Le Rupella,46.15817494,-1.15107,7.2,Bien  ,1,https://www.booking.com/hotel/fr/le-rupella.fr.html
+La Rochelle,2022-01-02,Hotel De Paris,46.16196911,-1.1511746,7.8,Bien  ,665,https://www.booking.com/hotel/fr/de-paris-la-rochelle.fr.html
+La Rochelle,2022-01-02,Hotel De La Paix,46.16193939,-1.15085542,7.9,Bien  ,660,https://www.booking.com/hotel/fr/de-la-paix-la-rochelle.fr.html
+La Rochelle,2022-01-02,Appart'City La Rochelle,46.15844669,-1.14101171,7.4,Bien  ,2,https://www.booking.com/hotel/fr/appart-city-cap-affaires-la-rochelle.fr.html
+La Rochelle,2022-01-02,Hôtel Altica La Rochelle,46.14939066,-1.15375221,6.9,Agréable ,1,https://www.booking.com/hotel/fr/altica-la-rochelle.fr.html
+La Rochelle,2022-01-02,Hôtel Le Rochelois,46.15418175,-1.18243652,8.0,Très bien ,2,https://www.booking.com/hotel/fr/le-rochelois.fr.html
+Biarritz,2022-01-02,Hôtel Parc Mazon-Biarritz,43.47772404,-1.56221509,8.1,Très bien ,500,https://www.booking.com/hotel/fr/baron-de-biarritz.fr.html
+Biarritz,2022-01-02,Hôtel Le Saphir,43.48177906,-1.56539351,8.6,Superbe ,574,https://www.booking.com/hotel/fr/le-saphir.fr.html
+Biarritz,2022-01-02,Hôtel Les Alizés,43.48214495,-1.56628937,7.2,Bien  ,1,https://www.booking.com/hotel/fr/les-alizes.fr.html
+Biarritz,2022-01-02,Hotel Barnetche,43.47991653,-1.5561412300000002,8.0,Très bien ,203,https://www.booking.com/hotel/fr/barnetche.fr.html
+Biarritz,2022-01-02,Argi Eder,43.48072811,-1.56428173,8.3,Très bien ,616,https://www.booking.com/hotel/fr/hotelargieder.fr.html
+Biarritz,2022-01-02,Hôtel Palmito,43.48205056,-1.56574488,8.6,Superbe ,163,https://www.booking.com/hotel/fr/palym-biarritz.fr.html
+Biarritz,2022-01-02,La Maison Du Lierre,43.48013354,-1.56076133,8.9,Superbe ,831,https://www.booking.com/hotel/fr/la-maison-du-lierre.fr.html
+Biarritz,2022-01-02,"La Casa Cosy, Appart'Hôtel",43.480333,-1.5625479,9.1,Fabuleux  ,96,https://www.booking.com/hotel/fr/la-casa-cosy-biarritz.fr.html
+Biarritz,2022-01-02,Hôtel Les Baigneuses De Biarritz,43.48230843,-1.56681105,8.0,Très bien ,456,https://www.booking.com/hotel/fr/le-caritz.fr.html
+Biarritz,2022-01-02,Hotel Txutxu-Mutxu,43.48405704,-1.5489971599999999,8.2,Très bien ,242,https://www.booking.com/hotel/fr/aubergelerelais.fr.html
+Biarritz,2022-01-02,Ama Hôtel,43.48131295,-1.55749306,8.8,Superbe ,514,https://www.booking.com/hotel/fr/alcyon-biarritz.fr.html
+Biarritz,2022-01-02,Le Gamaritz,43.4817742,-1.5665441800000002,7.8,Bien  ,559,https://www.booking.com/hotel/fr/le-gamaritz.fr.html
+Biarritz,2022-01-02,Hôtel Maison Garnier,43.48046829,-1.5633443,8.9,Superbe ,141,https://www.booking.com/hotel/fr/maison-garnier.fr.html
+Biarritz,2022-01-02,Hôtel Oxo,43.48176836,-1.55452318,7.6,Bien  ,554,https://www.booking.com/hotel/fr/christina.fr.html
+Biarritz,2022-01-02,Hôtel Mirano,43.47436556,-1.55264899,8.8,Superbe ,477,https://www.booking.com/hotel/fr/mirano.fr.html
+Biarritz,2022-01-02,Escale Oceania Biarritz,43.48534146,-1.5523874800000002,8.1,Très bien ,612,https://www.booking.com/hotel/fr/altess-hotel.fr.html
+Biarritz,2022-01-02,Hôtel Maïtagaria,43.47897745,-1.56064063,8.6,Superbe ,285,https://www.booking.com/hotel/fr/maitagaria.fr.html
+Biarritz,2022-01-02,Hôtel Au Bon Coin,43.4821737,-1.5541904,9.4,Fabuleux  ,1,https://www.booking.com/hotel/fr/au-bon-coin-biarritz.fr.html
+Biarritz,2022-01-02,Carlina Lodge,43.47747717,-1.56685475,8.6,Superbe ,126,https://www.booking.com/hotel/fr/carlina-lodge-biarritz.fr.html
+Biarritz,2022-01-02,Résidence Victoria Surf,43.48474402,-1.55708939,8.1,Très bien ,570,https://www.booking.com/hotel/fr/residence-victoria-surf-victoria-management.fr.html
+Biarritz,2022-01-02,Hotel De L'Océan,43.48257408,-1.56374395,8.0,Très bien ,558,https://www.booking.com/hotel/fr/de-l-ocean.fr.html
+Biarritz,2022-01-02,Hotel Edouard Vii,43.47920322,-1.56221509,8.9,Superbe ,990,https://www.booking.com/hotel/fr/edouard-vii.fr.html
+Biarritz,2022-01-02,Brit Hotel Marbella,43.48204861,-1.56584948,7.6,Bien  ,776,https://www.booking.com/hotel/fr/citotelmarbella.fr.html
+Marseille,2022-01-02,Appart'City Marseille Euromed,43.3148132,5.3694651,6.6,Agréable ,2,https://www.booking.com/hotel/fr/appart-city-marseille-euromed.fr.html
+Marseille,2022-01-02,B&B Hôtel Marseille Centre La Joliette,43.30491975,5.36789015,7.0,Bien  ,1,https://www.booking.com/hotel/fr/b-amp-b-ha-tel-marseille-centre-la-joliette.fr.html
+Marseille,2022-01-02,Urban Loft Marseille,43.30174056,5.37969984,7.7,Bien  ,308,https://www.booking.com/hotel/fr/les-z-39-apparts-urban-loft.fr.html
+Marseille,2022-01-02,Ibis Marseille Centre Gare Saint Charles,43.30294352,5.38222834,7.5,Bien  ,3,https://www.booking.com/hotel/fr/ibis-marseille-gare-saint-charles.fr.html
+Marseille,2022-01-02,Montempô Apparthôtel Marseille Centre Euromed,43.31580003,5.37297461,6.9,Agréable ,1,https://www.booking.com/hotel/fr/marseille-centre-euromed-marseille.fr.html
+Marseille,2022-01-02,Residence Services Calypso Calanques Plage,43.25110681,5.38970053,8.0,Très bien ,491,https://www.booking.com/hotel/fr/residence-services-calypso.fr.html
+Marseille,2022-01-02,Odalys City Marseille Canebière,43.29794043,5.38361728,7.0,Bien  ,1,https://www.booking.com/hotel/fr/odalys-apparta-canebiere.fr.html
+Marseille,2022-01-02,Hotel Terminus Saint-Charles,43.30128993,5.38017333,7.6,Bien  ,1,https://www.booking.com/hotel/fr/terminus-saint-charles.fr.html
+Marseille,2022-01-02,Hôtel 96,43.239497,5.4062465,9.1,Fabuleux  ,274,https://www.booking.com/hotel/fr/ha-tel-96.fr.html
+Marseille,2022-01-02,Appart Hôtel Maison Montgrand-Vieux Port,43.291159,5.376363,8.5,Très bien ,150,https://www.booking.com/hotel/fr/appartements-montgrand.fr.html
+Marseille,2022-01-02,Kyriad Marseille Blancarde - Timone,43.296558,5.400765,7.3,Bien  ,902,https://www.booking.com/hotel/fr/kyriad-marseille-blancarde-timone.fr.html
+Marseille,2022-01-02,Le Drip'S,43.247273,5.3904309999999995,8.3,Très bien ,279,https://www.booking.com/hotel/fr/le-drip-39-s.fr.html
+Marseille,2022-01-02,Les Appartements Du Vieux Port,43.2951169,5.3761663,9.5,Exceptionnel ,2,https://www.booking.com/hotel/fr/les-jardins-du-ga-c-na-c-ral.fr.html
+Marseille,2022-01-02,Escale Oceania Marseille Vieux Port,43.29554688,5.37474588,8.3,Très bien ,877,https://www.booking.com/hotel/fr/hotel-mascotte-vieux-port.fr.html
+Marseille,2022-01-02,Best Western Hotel Du Mucem,43.3024494,5.36572158,8.1,Très bien ,638,https://www.booking.com/hotel/fr/best-western-du-mucem.fr.html
+Marseille,2022-01-02,Massilia Hôtel,43.30069129,5.38014894,7.9,Bien  ,1,https://www.booking.com/hotel/fr/massilia-marseille.fr.html
+Marseille,2022-01-02,Hôtel Maison Saint Louis - Vieux Port,43.29585142,5.37849426,8.0,Très bien ,1,https://www.booking.com/hotel/fr/saint-louis.fr.html
+Marseille,2022-01-02,Odalys City Marseille Prado Castellane,43.27977452,5.3905347,7.7,Bien  ,1,https://www.booking.com/hotel/fr/appart-39-odalys-prado-castellane.fr.html
+Marseille,2022-01-02,Hotel Belle-Vue Vieux-Port,43.2964156,5.37206098,8.1,Très bien ,1,https://www.booking.com/hotel/fr/belle-vue.fr.html
+Marseille,2022-01-02,Staycity Aparthotels Centre Vieux Port,43.30046625,5.37444157,8.2,Très bien ,4,https://www.booking.com/hotel/fr/staycity-aparthotels-centre-vieux-port.fr.html
+Marseille,2022-01-02,Aparthotel Adagio Access Marseille Prado Périer,43.27869234,5.38806036,7.9,Bien  ,1,https://www.booking.com/hotel/fr/citea-marseille-prado-perier.fr.html
+Marseille,2022-01-02,Kyriad Marseille Centre Paradis-Préfecture,43.2887287,5.37895238,7.0,Bien  ,1,https://www.booking.com/hotel/fr/kyriad-marseille-centre-paradis-pra-c-fecture.fr.html
+Marseille,2022-01-02,Campanile Marseille Saint Antoine,43.37978112,5.35564184,6.3,Agréable ,1,https://www.booking.com/hotel/fr/campanile-marseille-saint-antoine.fr.html
+Marseille,2022-01-02,Le Rhul,43.28031405,5.35387024,8.2,Très bien ,849,https://www.booking.com/hotel/fr/le-rhul.fr.html
+Marseille,2022-01-02,Best Western Hotel Marseille Bourse Vieux Port By Happyculture,43.29732159,5.37753899,7.7,Bien  ,1,https://www.booking.com/hotel/fr/ha-tel-marseille-vieux-port.fr.html
+Biarritz,2022-01-02,Premiere Classe Biarritz,43.46632918,-1.5405750299999998,5.1,Passable ,3,https://www.booking.com/hotel/fr/premiere-classe-biarritz.fr.html
+Biarritz,2022-01-02,Outsite Coliving Biarritz,43.479357,-1.562543,8.0,Très bien ,491,https://www.booking.com/hotel/fr/outsite-coliving-biarrtiz.fr.html
