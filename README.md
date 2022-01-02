@@ -1,6 +1,6 @@
-![Kayak](https://seekvectorlogo.com/wp-content/uploads/2018/01/kayak-vector-logo.png)
-
 # Plan your trip with Kayak 
+
+**<font size = 6>Visit the app at https://share.streamlit.io/nicolas-hegerle/p02_plan_your_trip/main</font>**
 
 ## Company's description 📇
 
