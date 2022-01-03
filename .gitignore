@@ -5,6 +5,7 @@ __pycache__/
 
 # Python script
 private.py
+.DS_store
 
 # C extensions
 *.so
