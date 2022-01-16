@@ -89,9 +89,9 @@ Focus **only on the above cities for this project**.
 
 * ```update_data.py``` can be ran to update the weather and hotel data, usually takes around 30 minutes to update. Files are saved automatically
 
-* ```P02_Plan_Your_trip.ipynb``` displays info and enabled to see results in a notebook as well as send data to AWS S3 and RDS PostGreSQl db
+* ```P02_Plan_Your_trip.ipynb``` displays info and enables to see results in a notebook as well as send data to AWS S3 and RDS PostGreSQl db
 
-* ```streamlit.app``` is used by streamlit to build the webpage that allows user to play around with weather data and get result for the top cities.<br>
+* ```streamlit.app``` is used by streamlit along with the ```requirements.txt``` to build the webpage that allows user to play around with weather data and get result for the top cities.<br>
 Visit the app at https://share.streamlit.io/nicolas-hegerle/p02_plan_your_trip/main
 
  

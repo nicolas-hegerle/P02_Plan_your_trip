@@ -7,8 +7,7 @@ def compute_winners(importance, nb_cities=5):
     Retrieves the date from the weather data collection and computes the 'winners' table.
     
     Takes as arguments:
-    *file_path: the path to the csv file containig the city weather data
-    *importance: a dictionarie containing the relative importance for the folloing weather features:
+    *importance: a dictionarie containing the relative importance for the following weather features:
         -humidity, wind_sp, cloudiness, uv_index, day_temp, day_temp_feels, rain
     *top: the proportion of cities you want to return Ex: 0.25 will return 1/4th of the cities in the list
     
