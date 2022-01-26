@@ -5,36 +5,15 @@ import os
 import numpy as np
 from datetime import date
 
-def hotel_scraper(cities, filename = "city_hotels.json", max_offset = 75):
-    '''
-    Function to scrap hotel info from booking for a list of cities passed as argument
+cities = ["Mont Saint Michel", "St Malo", "Bayeux", "Le Havre", "Rouen", "Paris", "Amiens",
+"Lille", "Strasbourg", "Chateau du Haut Koenigsbourg", "Colmar", "Eguisheim", "Besancon", "Dijon",
+"Annecy", "Grenoble", "Lyon", "Gorges du Verdon", "Bormes les Mimosas", "Cassis", "Marseille",
+"Aix en Provence", "Avignon", "Uzes", "Nimes", "Aigues Mortes", "Saintes Maries de la mer",
+"Collioure", "Carcassonne", "Ariege", "Toulouse", "Montauban", "Biarritz", "Bayonne",  "La Rochelle"] 
 
-    Arguments:
-    cities: list, name of the locations you wish to get hotels for
-    filename: string, name of the file the scrapped data will be saved to
-    max_offset: int, used to scrap multiple pages for a same location on booking.com since following the link with scrapy is tedious.
-    Offset of 0 returns the 25 best hotels for city, offset of 25 returns the 50 best hotels, etc... Offset of 75 returns 100 best hotels
+max_offset = 75
 
-    Returns:
-    Scrap_hotel_info: the scrapy spider
-    process: the crawler process
-
-    To lauch the scrapper:
-    scrapper, crawler = hotel_scraper([city, list], filename, max_offset = 75)
-    crawler.crawl(scrapper)
-    crawler.start()
-
-    URL explained
-    * full url: https://www.booking.com/searchresults.fr.html?&ss={}&nflt=ht_id%3D204%3B&order=class&offset={}
-    * base domain: https://www.booking.com
-    *first {}: replaced by the name of the city
-    * second {}: replace by the offset
-    * "&nflt=ht_id%3D204%3B": specifies you only want to retrieve hotels
-    * "&order=class": sorts the results by decreasing score to the base domain
-    * "&checkin_year=&checkin_month=&checkin_monthday=": can be used to specify desired dates of stay
-    '''
-
-    class Scrap_hotel_info(scrapy.Spider):
+class Scrap_hotel_info(scrapy.Spider):
         
         # Name of your spider that crawls all pages for each city
         name = "hotels_all_pages"
@@ -79,7 +58,34 @@ def hotel_scraper(cities, filename = "city_hotels.json", max_offset = 75):
                 'url' : hotel_link
                         }
 
+def hotel_scraper(filename = "city_hotels.json"):
+    '''
+    Function to scrap hotel info from booking for a list of cities passed as argument
 
+    Arguments:
+    cities: list, name of the locations you wish to get hotels for
+    filename: string, name of the file the scrapped data will be saved to
+    max_offset: int, used to scrap multiple pages for a same location on booking.com since following the link with scrapy is tedious.
+    Offset of 0 returns the 25 best hotels for city, offset of 25 returns the 50 best hotels, etc... Offset of 75 returns 100 best hotels
+
+    Returns:
+    Scrap_hotel_info: the scrapy spider
+    process: the crawler process
+
+    To lauch the scrapper:
+    scrapper, crawler = hotel_scraper([city, list], filename, max_offset = 75)
+    crawler.crawl(scrapper)
+    crawler.start()
+
+    URL explained
+    * full url: https://www.booking.com/searchresults.fr.html?&ss={}&nflt=ht_id%3D204%3B&order=class&offset={}
+    * base domain: https://www.booking.com
+    *first {}: replaced by the name of the city
+    * second {}: replace by the offset
+    * "&nflt=ht_id%3D204%3B": specifies you only want to retrieve hotels
+    * "&order=class": sorts the results by decreasing score to the base domain
+    * "&checkin_year=&checkin_month=&checkin_monthday=": can be used to specify desired dates of stay
+    '''
     # Name of the file where the results will be saved
     filename = filename
     logs = 'log.txt'
@@ -108,4 +114,4 @@ def hotel_scraper(cities, filename = "city_hotels.json", max_offset = 75):
         "CONCURRENT_REQUESTS" : 5,
     })
 
-    return Scrap_hotel_info, process
+    return process

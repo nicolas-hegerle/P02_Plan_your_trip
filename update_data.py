@@ -2,6 +2,7 @@
 
 # import the necessary libraries
 import time
+from scrap_hotels import Scrap_hotel_info
 
 
 # use of personal token for weather info
@@ -24,7 +25,6 @@ cities = ["Mont Saint Michel", "St Malo", "Bayeux", "Le Havre", "Rouen", "Paris"
 "Collioure", "Carcassonne", "Ariege", "Toulouse", "Montauban", "Biarritz", "Bayonne",  "La Rochelle"]
 
 
-
 # retrieve city and weather info. Will save the data automatically
 print(f"====Started collecting city and weather information at {time.strftime('%Y-%m-%d %H:%M:%S')}====\n")
 data_collection(cities)
@@ -33,9 +33,12 @@ print(f"====Finished collecting city and weather information at {time.strftime('
 
 # scrap the hotel information from booking.com. Code last updated on 2022/01/02
 # scraps top 100 hotels for the 35 best places in France
+
+scrapper = Scrap_hotel_info
+crawler = hotel_scraper()
+
 print(f"====Started scrapping hotel information at {time.strftime('%Y-%m-%d %H:%M:%S')}====")
 print("---This usually takes about 30 minutes---\n")
-scrapper, crawler = hotel_scraper(cities)
 crawler.crawl(scrapper)
 crawler.start()
 print(f"====Finished scrapping hotel information at {time.strftime('%Y-%m-%d %H:%M:%S')}====\n")
